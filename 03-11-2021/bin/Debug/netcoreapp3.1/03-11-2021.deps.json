@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "03-11-2021/1.0.0": {
+        "dependencies": {
+          "CheckPassword": "1.0.0"
+        },
+        "runtime": {
+          "03-11-2021.dll": {}
+        }
+      },
+      "CheckPassword/1.0.0": {
+        "runtime": {
+          "CheckPassword.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "03-11-2021/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CheckPassword/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
